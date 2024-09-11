@@ -1,0 +1,25 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: microservice-gateway-deploy
+    labels:
+        name: microservice-gateway-deploy
+        app: microservice
+spec:
+    replicas: 1
+    selector:
+        matchLabels:
+            app: gateway
+            type: microservice
+    template:
+        metadata:
+            name: gateway-pod
+            labels:
+                app: gateway
+                type: microservice
+        spec:
+            container:
+                - name: gateway-app
+                  image: crakenasdocker/serviciosapigateway:latest
+                  ports:
+                    - containerPort: 80

@@ -3,5 +3,7 @@
   <PropertyGroup>
     <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Controller</Controller_SelectedScaffolderCategoryPath>
+    <ActiveDebugProfile>Container (Dockerfile)</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>C:\Users\Usuario\Desktop\Microservices\Microservices\Servicios.api.Seguridad\Properties\PublishProfiles\registry.hub.docker.com_crakenasdocker.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

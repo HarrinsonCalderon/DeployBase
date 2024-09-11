@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1KJh0gP8oGM=",
+  "dgSpecHash": "wUKOHX0jluo=",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\Servicios.api.Libreria\\Servicios.api.Libreria.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\mongodb.bson\\2.11.2\\mongodb.bson.2.11.2.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\mongodb.driver\\2.11.2\\mongodb.driver.2.11.2.nupkg.sha512",
