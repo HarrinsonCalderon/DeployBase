@@ -20,7 +20,7 @@ spec:
         spec:
             container:
             - name: microservice-seguridad-app
-              image: crakenasdocker/serviciosapiseguridad:latest
+              image: crakenasdocker/serviciosapiseguridad:v2.#{Build.BuildId}#
               ports:
                 - containerPort: 80
               env:

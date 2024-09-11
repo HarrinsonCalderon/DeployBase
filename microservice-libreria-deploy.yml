@@ -20,7 +20,7 @@ spec:
         spec:
             container:
             - name: microservice-libreria-app
-              image: crakenasdocker/serviciosapilibreria:latest
+              image: crakenasdocker/serviciosapilibreria:v2.#{Build.BuildId}#
               ports:
                 - containerPort: 80
               env:

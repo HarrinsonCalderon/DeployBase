@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|kubernetes{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\gateway-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|kubernetes{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|solutionrelative:gateway-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|kubernetes{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\microservice-seguridad-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|kubernetes{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|solutionrelative:microservice-seguridad-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|kubernetes{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\microservice-libreria-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|kubernetes{347BF55B-3AC4-4EF3-80A4-6BCFDC40EC47}|solutionrelative:microservice-libreria-deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gateway-deploy.yml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\gateway-deploy.yml",
+              "RelativeDocumentMoniker": "gateway-deploy.yml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\gateway-deploy.yml",
+              "RelativeToolTip": "gateway-deploy.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-11T22:18:00.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "microservice-seguridad-deploy.yml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\microservice-seguridad-deploy.yml",
+              "RelativeDocumentMoniker": "microservice-seguridad-deploy.yml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\microservice-seguridad-deploy.yml",
+              "RelativeToolTip": "microservice-seguridad-deploy.yml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-11T22:17:40.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "microservice-libreria-deploy.yml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\microservice-libreria-deploy.yml",
+              "RelativeDocumentMoniker": "microservice-libreria-deploy.yml",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Microservices\\Microservices\\microservice-libreria-deploy.yml",
+              "RelativeToolTip": "microservice-libreria-deploy.yml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-09-11T22:15:36.216Z",
+              "EditorCaption": ""
             }
           ]
         },

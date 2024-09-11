@@ -20,6 +20,6 @@ spec:
         spec:
             container:
                 - name: gateway-app
-                  image: crakenasdocker/serviciosapigateway:latest
+                  image: crakenasdocker/serviciosapigateway:v2.#{Build.BuildId}#
                   ports:
                     - containerPort: 80
